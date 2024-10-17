@@ -11,3 +11,5 @@ On dispose d'une réserve de nourriture qui évolue à chaque tour qui est compr
 Enfin il est possible que la nourriture de la réserve devienne avariée, ce qui peut faire chuter la quantité de nourriture en stock.
 
 Pour quitter le jeu, entrer le caractère '-'.
+
+Réalisé dans le cadre de ma formation, en binôme avec Grégory Toureille
