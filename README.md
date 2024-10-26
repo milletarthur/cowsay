@@ -12,4 +12,4 @@ Enfin il est possible que la nourriture de la réserve devienne avariée, ce qui
 
 Pour quitter le jeu, entrer le caractère '-'.
 
-Réalisé dans le cadre de ma formation, en binôme avec Grégory Toureille
+Réalisé par [Grégory Toureille](https://github.com/nyoukki) et Arthur Millet
